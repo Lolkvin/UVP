@@ -10,8 +10,8 @@ for x in ["01"]:
     r = requests.get(f"https://arxiv.org/list/math/2024-" + x)
     besedilo = r.text[r.text.index("articles"):]
 
-temp = besedilo.split('</dd>')
-sekcije = '</dd>'.join(temp[:2]), '</dd>'.join(temp[2:])
+sekcije = besedilo.split('</dd>')
+
 
 avtor = r"(<div class='list-authors'><[^>]*>)([^<]*)(<)"
 
@@ -25,7 +25,7 @@ avtor = r"(<div class='list-authors'><[^>]*>)([^<]*)(<)"
 #    avtor = r"(<div class='list-authors'><[^>]*>)([^<]*)(<)"
 #    sth = re.search(avtor, tekst[i]).group(2)
 
-print(sekcije)
+print(sekcije[8])
 
 #def izlusci_sifro_in_naslov(niz):
 #    vzorec = r'<a href="/title/tt(?P<sifra>\d+)/\?ref_=adv_li_tt">(?P<naslov>.*?)</a>'
