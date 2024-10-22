@@ -13,7 +13,7 @@ for x in ["01"]:
 sekcije = besedilo.split('</dd>')
 
 
-avtor = r"(<div class='list-authors'><[^>]*>)([^<]*)(<)"
+avtor1 = r"(<div class='list-authors'><[^>]*>)([^<]*)(<)"
 
 #with open("filmi.csv", "w", newline = None, encoding="utf-8") as f:
 #    writer = csv.DictWriter(f, fieldnames=["id", "naslov", "autor", "področje"])
@@ -21,11 +21,11 @@ avtor = r"(<div class='list-authors'><[^>]*>)([^<]*)(<)"
 #    for članek in besedilo:
 #        writer.writerow(članek)
 
-#for i in (range(len(tekst))):
-#    avtor = r"(<div class='list-authors'><[^>]*>)([^<]*)(<)"
-#    sth = re.search(avtor, tekst[i]).group(2)
+for i in (range(3)):
+    avtor = r"(<div class='list-authors'>.*</div>)"
+    print(re.search(avtor, sekcije[i]).group(0))
 
-print(sekcije[8])
+
 
 #def izlusci_sifro_in_naslov(niz):
 #    vzorec = r'<a href="/title/tt(?P<sifra>\d+)/\?ref_=adv_li_tt">(?P<naslov>.*?)</a>'
