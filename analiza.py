@@ -20,7 +20,7 @@ naslov = r'(Title:</span>)([^<]*)'
 
 with open("zbrani_podatki.csv", "w", newline='', encoding="utf-8") as izhod:
     writer = csv.writer(izhod)
-    writer.writerow(["ID", "naslov", "avtor", "mesec", "področje"])
+    writer.writerow(["ID", "naslov", "avtor", "mesec", "glavno področje", "ostala področja"])
     ID = 1
 
     for i in range(len(sekcije) - 1):
@@ -42,17 +42,28 @@ with open("zbrani_podatki.csv", "w", newline='', encoding="utf-8") as izhod:
         #mesec je že prej določen, mogoče bom naredu 2 leti da lahk dodam še leto, idk
 
 
-        #področje
+        #glavno področje
+        gl_podrocje = re.search(r'(<span class="primary-subject">)([^<]*)(<)', sekcije[i]).group(2)
+
+
+        #stransko področje
         if re.search(r'(<span class="primary-subject">)([^<]*)(</span>;)([^<]*)(</div>)', sekcije[i]) == None:
-            jara = re.search(r'(<span class="primary-subject">)([^<]*)(<)', sekcije[i]).group(2)
-        else: jara = [re.search(r'(<span class="primary-subject">)([^<]*)(</span>;)([^<]*)(</div>)', sekcije[i]).group(2)] + re.search(r'(<span class="primary-subject">)([^<]*)(</span>;)([^<]*)(</div>)', sekcije[i]).group(4).split(';')[:-2]
+            st_podrocje = "empty,"
+        else:
+             st_podrocje_list = re.search(r'(<span class="primary-subject">)([^<]*)(</span>;)([^<]*)(</div>)', sekcije[i]).group(4)[:-9].split(';')
+             st_podrocje = ""
+             for element in st_podrocje_list:
+                  st_podrocje += element + ","
+                  st_podrocje = st_podrocje.strip()
+        st_podrocje = st_podrocje[:-1]
+        print(str(st_podrocje))
 
 
 
 
 
 
-        writer.writerow([ID, nas, f'{seznam_avtorjev_dela[:-2]}', '01', jara])
+        writer.writerow([ID, nas, f'{seznam_avtorjev_dela[:-2]}', '01', gl_podrocje, st_podrocje])
         ID += 1
 
 
