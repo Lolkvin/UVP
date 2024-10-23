@@ -13,7 +13,13 @@ for x in ["01"]:
 sekcije = besedilo.split('</dd>')
 
 
-avtor1 = r"(<div class='list-authors'><[^>]*>)([^<]*)(<)"
+
+#with open("zbrani_podatki.csv", "w", newline='', encoding="utf-8") as izhod:
+#    writer = csv.writer(izhod)
+#    writer.writerow(["ID", "leto", "naslov", "avtor", "področje"])
+#    ID = 0
+#
+#    for delo in sekcije:
 
 #with open("filmi.csv", "w", newline = None, encoding="utf-8") as f:
 #    writer = csv.DictWriter(f, fieldnames=["id", "naslov", "autor", "področje"])
@@ -21,10 +27,12 @@ avtor1 = r"(<div class='list-authors'><[^>]*>)([^<]*)(<)"
 #    for članek in besedilo:
 #        writer.writerow(članek)
 
+avtor1 = r"(\+.\">)([^<]*)"
 for i in (range(3)):
     avtor = r"(<div class='list-authors'>.*</div>)"
-    print(re.search(avtor, sekcije[i]).group(0))
-
+    lola = re.search(avtor, sekcije[i]).group(0).split('</a>,')
+    for element in lola:
+        print(re.search(avtor1, element).group(2))
 
 
 #def izlusci_sifro_in_naslov(niz):
