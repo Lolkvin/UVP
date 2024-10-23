@@ -39,6 +39,20 @@ with open("zbrani_podatki.csv", "w", newline='', encoding="utf-8") as izhod:
         for element in lola:
                 seznam_avtorjev_dela += f"{re.search(avtor1, element).group(2)}, "
 
+        #mesec je že prej določen, mogoče bom naredu 2 leti da lahk dodam še leto, idk
 
-        writer.writerow([ID, nas, f'{seznam_avtorjev_dela[:-2]}'])
+
+        #področje
+        if re.search(r'(<span class="primary-subject">)([^<]*)(</span>;)([^<]*)(</div>)', sekcije[i]) == None:
+            jara = re.search(r'(<span class="primary-subject">)([^<]*)(<)', sekcije[i]).group(2)
+        else: jara = [re.search(r'(<span class="primary-subject">)([^<]*)(</span>;)([^<]*)(</div>)', sekcije[i]).group(2)] + re.search(r'(<span class="primary-subject">)([^<]*)(</span>;)([^<]*)(</div>)', sekcije[i]).group(4).split(';')[:-2]
+
+
+
+
+
+
+        writer.writerow([ID, nas, f'{seznam_avtorjev_dela[:-2]}', '01', jara])
         ID += 1
+
+
