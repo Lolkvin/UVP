@@ -1,51 +1,102 @@
 ID,naslov,avtor,mesec,glavno področje,ostala področja
-1,A note on the $v$-invariant,Aldo Conca,01,Commutative Algebra (math.AC),empty
-2,"Some extremal problems for martingale transforms, I","Vasily Vasyunin, Pavel Zatitskii",01,Classical Analysis and ODEs (math.CA),"Analysis of PDEs (math.AP), Probability (math.PR)"
-3,A Quantum $H^*(T)$-module via Quasimap Invariants,Jae Hwang Lee,01,Algebraic Geometry (math.AG),empty
-4,A new view of hypercube genus,"Richard H. Hammack, Paul C. Kainen",01,Combinatorics (math.CO),empty
-5,Shifted Composition II: Shift Harnack Inequalities and Curvature Upper Bounds,"Jason M. Altschuler, Sinho Chewi",01,Probability (math.PR),"Information Theory (cs.IT), Analysis of PDEs (math.AP), Functional Analysis (math.FA)"
-6,Absolute concentration robustness: Algebra and geometry,"Luis David García Puente, Elizabeth Gross, Heather A Harrington, Matthew Johnston, Nicolette Meshkat, Mercedes Pérez Millán, Anne Shiu",01,Algebraic Geometry (math.AG),"Dynamical Systems (math.DS), Molecular Networks (q-bio.MN)"
-7,Computable Scott sentences and the weak Whitehead problem for finitely presented groups,Gianluca Paolini,01,Logic (math.LO),empty
-8,Interacting stochastic processes on sparse random graphs,Kavita Ramanan,01,Probability (math.PR),Mathematical Physics (math-ph)
-9,Euler&#39;s Theorem for Regular CW-Complexes,"Richard H. Hammack, Paul C. Kainen",01,Geometric Topology (math.GT),empty
-10,Conditions for eigenvalue configurations of two real symmetric matrices: a symmetric function approach,"Hoon Hong, Daniel Profili, J. Rafael Sendra",01,Algebraic Geometry (math.AG),Symbolic Computation (cs.SC)
-11,A generalized moment approach to sharp bounds for conditional expectations,Wouter J.E.C. van Eekelen,01,Optimization and Control (math.OC),Probability (math.PR)
-12,On finite energy generalized Seiberg-Witten monopoles over $\mathbf R^4$ and $\mathbf R^3$,Gorapada Bera,01,Differential Geometry (math.DG),empty
-13,Complete space-like self-expanders in the Minkovski space,"Zhi Li, Guoxin Wei",01,Differential Geometry (math.DG),empty
-14,Stochastic Optimization under Hidden Convexity,"Ilyas Fatkhullin, Niao He, Yifan Hu",01,Optimization and Control (math.OC),Computational Complexity (cs.CC)
-15,A Christ-Kiselev maximal theorem in quasi-Banach function lattices,"Mieczysław Mastyło, Gord Sinnamon",01,Functional Analysis (math.FA),empty
-16,A Contour Integral-Based Algorithm for Computing Generalized Singular Values,"Yuqi Liu, Xinyu Shan, Meiyue Shao",01,Numerical Analysis (math.NA),empty
-17,A quick probability-oriented introduction to operator splitting methods,M.B. Vovchanskyi,01,Probability (math.PR),Numerical Analysis (math.NA)
-18,"Bounded $t$-structures, finitistic dimensions, and singularity categories of triangulated categories","Rudradip Biswas, Hongxing Chen, Kabeer Manali Rahul, Chris J. Parker, Junhua Zheng",01,Rings and Algebras (math.RA),"Algebraic Geometry (math.AG), Category Theory (math.CT), Representation Theory (math.RT)"
-19,Integral representations over finite limits for quantum amplitudes,Jack C. Straton,01,General Mathematics (math.GM),empty
-20,Limit theorems for supercritical remaining-lifetime age-structured branching processes,Ziling Cheng,01,Probability (math.PR),empty
-21,$k$ Summands of Syzygies over Rings of Positive Burch Index Via Canonical Resolutions,"Michael DeBellevue, Claudia Miller",01,Commutative Algebra (math.AC),empty
-22,Homeomorphism types of Floyd boundaries of infinite-ended groups,"Subhajit Chakraborty, Ravi Tomar",01,Group Theory (math.GR),empty
-23,Radical subgroups of finite reductive groups,"Zhicheng Feng, Jun Yu, Jiping Zhang",01,Representation Theory (math.RT),Group Theory (math.GR)
-24,Block-Level MU-MISO Interference Exploitation Precoding: Optimal Structure and Explicit Duality,"Junwen Yang, Ang Li, Xuewen Liao, Christos Masouros, A. L. Swindlehurst",01,Information Theory (cs.IT),Signal Processing (eess.SP)
-25,Towards Abstract Wiener Model Spaces,"Gideon Chiusole, Peter K. Friz",01,Probability (math.PR),empty
-26,Convergence Analysis of a Spectral Numerical Method for a Peridynamic Formulation of Richards&#39; Equation,"Fabio V. Difonzo, Sabrina F. Pellegrino",01,Numerical Analysis (math.NA),empty
-27,Propagation of Input Tail Uncertainty in Rare-Event Estimation: A Light versus Heavy Tail Dichotomy,"Zhiyuan Huang, Henry Lam, Zhenyuan Liu",01,Statistics Theory (math.ST),Probability (math.PR)
-28,Fullerenes and Belyi functions,"Nikolai M. Adrianov, George B. Shabat",01,Algebraic Geometry (math.AG),empty
-29,On the existence of Minkowski units,"David Burns, Donghyeok Lim, Christian Maire",01,Number Theory (math.NT),empty
-30,Generators for extensions of valuation rings,Josnei Novacoski,01,Commutative Algebra (math.AC),empty
-31,"Belyi functions of the special weighted trees of $(2,3)$-type","Nikolai M. Adrianov, Alexander M. Vatuzov",01,Algebraic Geometry (math.AG),empty
-32,Representability in non-linear elliptic Fredholm analysis,John Pardon,01,Analysis of PDEs (math.AP),"Algebraic Topology (math.AT), Category Theory (math.CT), Differential Geometry (math.DG), Symplectic Geometry (math.SG)"
-33,On the solution set of semi-infinite tensor complementarity problem,"R. Deb, A. K. Das",01,Optimization and Control (math.OC),empty
-34,On some properties of set-valued tensor complementarity problem,"R. Deb, A. K. Das",01,Optimization and Control (math.OC),empty
-35,Real-Time and Security-Aware Precoding in RIS-Empowered Multi-User Wireless Networks,"Abuzar B. M. Adam, Mohamed Amine Ouamri, Mohammed Saleh Ali Muthanna, Xingwang Li, Mohammed A. M. Elhassan, Ammar Muthanna",01,Information Theory (cs.IT),Signal Processing (eess.SP)
-36,On the Identifiability from Modulo Measurements under DFT Sensing Matrix,"Qi Zhang, Jiang Zhu, Fengzhong Qu, Zheng Zhu, De Wen Soh",01,Information Theory (cs.IT),Signal Processing (eess.SP)
-37,Stability of traveling wave solutions in a credit rating migration Free Boundary Problem,"Claude-Michel Brauner, Yuchao Dong, Jin Liang, Luca Lorenzi",01,Analysis of PDEs (math.AP),empty
-38,Torsion in classifying spaces of gauge groups,Masaki Kameko,01,Algebraic Topology (math.AT),empty
-39,The iterative conception of function and the iterative conception of set,Tim Button,01,Logic (math.LO),empty
-40,Roots of identity in finite groups of Lie type,Saikat Panja,01,Group Theory (math.GR),Combinatorics (math.CO)
-41,Functional Inequalities for Brownian Motion on Riemannian Manifolds with Sticky-Reflecting Boundary Diffusion,"Marie Bormann, Max von Renesse, Feng-Yu Wang",01,Probability (math.PR),"Analysis of PDEs (math.AP), Differential Geometry (math.DG), Spectral Theory (math.SP)"
-42,A unified structure-preserving parametric finite element method for anisotropic surface diffusion,"Weizhu Bao, Yifei Li",01,Numerical Analysis (math.NA),empty
-43,"On families of elliptic curves $E_{p,q}:y^2=x^3-pqx$ that intersect the same line $L_{a,b}:y=\frac{a}{b}x$ of rational slope","Eldar Sultanow, Malik Amir, Anja Jeschke, Amir Darwish Tfiha, Madjid Tehrani, William J Buchanan",01,Number Theory (math.NT),Algebraic Geometry (math.AG)
-44,Discretization-Based Solution Approaches for the Circle Packing Problem,"Rabia Taşpınar, Burak Kocuk",01,Optimization and Control (math.OC),empty
-45,Structural Insights and an IP-based Solution Method for Patient-to-room Assignment under Consideration of Single Room Entitlements,"Tabea Brandt, Christina Büsing, Felix Engelhardt",01,Optimization and Control (math.OC),empty
-46,Parallel-in-time Multilevel Krylov Methods: A Prototype,Yogi A. Erlangga,01,Numerical Analysis (math.NA),empty
-47,Analytic capacities in Besov spaces,"Anton Baranov, Michael Hartz, Ilgiz Kayumov, Rachid Zarouf",01,Complex Variables (math.CV),empty
-48,Simultaneously determine elastic impedance and shape by a Newton-type iterative method,"Yao Sun, Pan Wang",01,Numerical Analysis (math.NA),empty
-49,Non-smoothable $\mathbb{Z}/p$-actions on nuclei,Ian Montague,01,Geometric Topology (math.GT),empty
-50,Cluster algebras and monotone Lagrangian tori,"Yunhyung Cho, Myungho Kim, Yoosik Kim, Euiyong Park",01,Symplectic Geometry (math.SG),"Algebraic Geometry (math.AG), Representation Theory (math.RT)"
+1,Using binary string to prove the Collatz conjecture,Jishe Feng,02,General Mathematics (math.GM),empty
+2,Li-Yau Estimates for a Nonlinear Parabolic Equation on Finsler Manifolds,"Bin Shen, Yuhan Zhu",02,Differential Geometry (math.DG),empty
+3,Markovian embedding of nonlocal equations using spectral representation,"Divya Jaganathan, Rahil N. Valani",02,Numerical Analysis (math.NA),"Computational Physics (physics.comp-ph), Fluid Dynamics (physics.flu-dyn)"
+4,On generalized covering and avoidance properties of finite groups and saturated fusion systems,"Shengmin Zhang, Zhencai Shen",02,Group Theory (math.GR),empty
+5,Deciphering the Dance of the Winds and Waves: Unraveling Anomalous Dynamics in Floating Offshore Wind Turbines,"Yihan Liu, Michael Chertkov",02,Dynamical Systems (math.DS),Fluid Dynamics (physics.flu-dyn)
+6,Modular Construction of Boolean Networks,"Matthew Wheeler, Claus Kadelka, Alan Veliz-Cuba, David Murrugarra, Reinhard Laubenbacher",02,Dynamical Systems (math.DS),Cellular Automata and Lattice Gases (nlin.CG)
+7,Perspectives on locally weighted ensemble Kalman methods,Philipp Wacker,02,Numerical Analysis (math.NA),"Probability (math.PR), Computation (stat.CO)"
+8,Solving High-dimensional Parametric Elliptic Equation Using Tensor Neural Network,"Hongtao Chen, Rui Fu, Yifan Wang, Hehu Xie",02,Numerical Analysis (math.NA),empty
+9,A Mathematical Approach to Law and Deal Modelling: Legislation and Agreements,"Jon Benito-Ostolaza, María Jesús Campión, Asier Estevan",02,Optimization and Control (math.OC),empty
+10,On the restricted $k$-multipartition function,"Mircea Cimpoeas, Alexandra Teodor",02,Number Theory (math.NT),Combinatorics (math.CO)
+11,Constrained Motion Spaces of Robotic Arms,Jackson Pierce,02,Algebraic Topology (math.AT),empty
+12,Exponential Ordering for Nonautonomous Neutral Functional Differential Equations,"Sylvia Novo, Rafael Obaya, Víctor M. Villarragut",02,Dynamical Systems (math.DS),empty
+13,General uncrossing covering paths inside the axis-aligned bounding box,Marco Ripà,02,Combinatorics (math.CO),empty
+14,Exploring Felix Klein&#39;s contested modernism,"Peter Heinig, Mikhail G. Katz, Karl Kuhlemann, Jan Peter Schaefermeyer, David Sherry",02,History and Overview (math.HO),Mathematical Physics (math-ph)
+15,$G$-Connections on principal bundles over complete $G$-varieties,"Bivas Khan, Mainak Poddar",02,Algebraic Geometry (math.AG),empty
+16,Soft-linkedness,Miguel A. Cardona,02,Logic (math.LO),Combinatorics (math.CO)
+17,Structure-preserving approximation for the non-isothermal Cahn-Hilliard-Navier-Stokes system,"Aaron Brunk, Dennis Schumann",02,Numerical Analysis (math.NA),Analysis of PDEs (math.AP)
+18,Zero fibers of quaternionic quotient singularities,"Lien Cartaya, Stephen Griffeth",02,Representation Theory (math.RT),Combinatorics (math.CO)
+19,The equidistribution of Elliptic Dedekind sums and generalized Selberg-Kloosterman sums,"Kim Klinger-Logan, Tian An Wong",02,Number Theory (math.NT),empty
+20,Network Design for the Traffic Assignment Problem with Mixed-Integer Frank-Wolfe,"Kartikey Sharma, Deborah Hendrych, Mathieu Besançon, Sebastian Pokutta",02,Optimization and Control (math.OC),empty
+21,Algorithms for $p$-adic Heights on Hyperelliptic Curves of Arbitrary Reduction,"Francesca Bianchi, Enis Kaya, J. Steffen Müller",02,Number Theory (math.NT),Algebraic Geometry (math.AG)
+22,Isolated Diophantine numbers,"Fernando Argentieri, Luigi Chierchia",02,Dynamical Systems (math.DS),Number Theory (math.NT)
+23,Interpretations of ZF,"Santiago Jockwich, Sourav Tarafder, Giorgio Venturi",02,Logic (math.LO),empty
+24,Nineteen Fifty-four: Kolmogorov&#39;s new &#34;metrical approach&#34; to Hamiltonian Dynamics,"Luigi Chierchia, Isabella Fascitiello",02,Dynamical Systems (math.DS),empty
+25,Geometric Langlands duality for periods,"Tony Feng, Jonathan Wang",02,Number Theory (math.NT),"Algebraic Geometry (math.AG), Representation Theory (math.RT)"
+26,The clique number of the exact distance $t$-power graph: complexity and eigenvalue bounds,"Aida Abiad, Afrouz Jabal Ameli, Luuk Reijnders",02,Combinatorics (math.CO),empty
+27,Computational orders of convergence of iterative methods for Richards&#39; equation,"Nicolae Suciu, Florin A. Radu, Jakob S. Stokke, Emil Cătinaş, Andra Malina",02,Numerical Analysis (math.NA),empty
+28,Badly approximable grids and k-divergent lattices,"Nikolay Moshchevitin, Anurag Rao, Uri Shapira",02,Number Theory (math.NT),Dynamical Systems (math.DS)
+29,Towards a Unified Theory of Time-Varying Data,"Benjamin Merlin Bumpus, James Fairbanks, Martti Karvonen, Wilmer Leal, Frédéric Simard",02,Category Theory (math.CT),Data Structures and Algorithms (cs.DS)
+30,Modeling and numerical simulation of fully Eulerian fluid-structure interaction using cut finite elements,"Stefan Frei, Tobias Knoke, Marc C. Steinbach, Anne-Kathrin Wenske, Thomas Wick",02,Numerical Analysis (math.NA),empty
+31,Schr\&#34;odinger Operators with Potentials Generated by Hyperbolic Transformations: II. Large Deviations and Anderson Localization,Artur Avila,02,Spectral Theory (math.SP),"Mathematical Physics (math-ph), Dynamical Systems (math.DS)"
+32,Exact and Heuristic Approaches for the Stochastic N-k Interdiction in Power Grids,"Kaarthik Sundar, Andrew Mastin, Manuel Garcia, Russell Bent, Jean-Paul Watson",02,Optimization and Control (math.OC),empty
+33,Learning Based Dynamic Cluster Reconfiguration for UAV Mobility Management with 3D Beamforming,"Irshad A. Meer, Karl-Ludwig Besser, Mustafa Ozger, Dominic Schupke, H. Vincent Poor, Cicek Cavdar",02,Information Theory (cs.IT),Signal Processing (eess.SP)
+34,Forcing Over a Free Suslin Tree,"John Krueger, Sarka Stejskalova",02,Logic (math.LO),empty
+35,Examples of Anosov flows with genus one Birkhoff sections,Chi Cheuk Tsang,02,Dynamical Systems (math.DS),Geometric Topology (math.GT)
+36,Geodesic flow and decay of traces on hyperbolic surfaces,"Antoine Gansemer, Andrew Hassell",02,Spectral Theory (math.SP),Dynamical Systems (math.DS)
+37,Uniformly polynomial-time classification of surface homeomorphisms,Filippo Baroni,02,Geometric Topology (math.GT),Computational Geometry (cs.CG)
+38,Graph Iterated Function Systems and Fractal Tops,"Grover Lancaster-Cole, Georgiana Lyall, Thomas Malcolm, Qiyu Zhou",02,Dynamical Systems (math.DS),empty
+39,WDVV solutions associated with the genus one holomorphic differential,Chaabane Rejeb,02,Mathematical Physics (math-ph),empty
+40,Limits of Random Motzkin paths with KPZ related asymptotics,"Wlodzimierz Bryc, Alexey Kuznetsov, Jacek Wesolowski",02,Probability (math.PR),empty
+41,Valuative invariants for linearized line bundles on a spherical variety,Chenxi Yin,02,Algebraic Geometry (math.AG),Differential Geometry (math.DG)
+42,Dirac series of $E_{8(-24)}$,"Yi-Hao Ding, Chao-Ping Dong, Chengyu Du, Yong-Zhi Luan, Liang Yang",02,Representation Theory (math.RT),empty
+43,Subgradient evolution of value functions in discrete-time optimal control,"Julio Deride, Cristopher Hermosilla, Mattia Solla",02,Optimization and Control (math.OC),empty
+44,Explicit arithmetic Eisenstein cocycles: the toric case,Peter Xu,02,Number Theory (math.NT),Algebraic Geometry (math.AG)
+45,Constructive Projective Geometry,Mark Mandelkern,02,Metric Geometry (math.MG),empty
+46,Information-Theoretic Thresholds for Planted Dense Cycles,"Cheng Mao, Alexander S. Wein, Shenduo Zhang",02,Statistics Theory (math.ST),"Information Theory (cs.IT), Social and Information Networks (cs.SI), Machine Learning (stat.ML)"
+47,A Tuning-Free Primal-Dual Splitting Algorithm for Large-Scale Semidefinite Programming,"Yinjun Wang, Haixiang Lan, Yinyu Ye",02,Optimization and Control (math.OC),empty
+48,Littlewood-type theorems for random Dirichlet series,"Jiale Chen, Xin Guo, Maofa Wang",02,Functional Analysis (math.FA),empty
+49,Steady gradient Ricci solitons with nonnegative curvature operator away from a compact set,"Ziyi Zhao, Xiaohua Zhu",02,Differential Geometry (math.DG),empty
+50,Region crossing change on origami and link,"Tokio Oshikiri, Ayaka Shimizu, Junya Tamura",02,Geometric Topology (math.GT),empty
+ID,naslov,avtor,mesec,glavno področje,ostala področja
+1,Using binary string to prove the Collatz conjecture,Jishe Feng,02,General Mathematics (math.GM),empty
+2,Li-Yau Estimates for a Nonlinear Parabolic Equation on Finsler Manifolds,"Bin Shen, Yuhan Zhu",02,Differential Geometry (math.DG),empty
+3,Markovian embedding of nonlocal equations using spectral representation,"Divya Jaganathan, Rahil N. Valani",02,Numerical Analysis (math.NA),"Computational Physics (physics.comp-ph), Fluid Dynamics (physics.flu-dyn)"
+4,On generalized covering and avoidance properties of finite groups and saturated fusion systems,"Shengmin Zhang, Zhencai Shen",02,Group Theory (math.GR),empty
+5,Deciphering the Dance of the Winds and Waves: Unraveling Anomalous Dynamics in Floating Offshore Wind Turbines,"Yihan Liu, Michael Chertkov",02,Dynamical Systems (math.DS),Fluid Dynamics (physics.flu-dyn)
+6,Modular Construction of Boolean Networks,"Matthew Wheeler, Claus Kadelka, Alan Veliz-Cuba, David Murrugarra, Reinhard Laubenbacher",02,Dynamical Systems (math.DS),Cellular Automata and Lattice Gases (nlin.CG)
+7,Perspectives on locally weighted ensemble Kalman methods,Philipp Wacker,02,Numerical Analysis (math.NA),"Probability (math.PR), Computation (stat.CO)"
+8,Solving High-dimensional Parametric Elliptic Equation Using Tensor Neural Network,"Hongtao Chen, Rui Fu, Yifan Wang, Hehu Xie",02,Numerical Analysis (math.NA),empty
+9,A Mathematical Approach to Law and Deal Modelling: Legislation and Agreements,"Jon Benito-Ostolaza, María Jesús Campión, Asier Estevan",02,Optimization and Control (math.OC),empty
+10,On the restricted $k$-multipartition function,"Mircea Cimpoeas, Alexandra Teodor",02,Number Theory (math.NT),Combinatorics (math.CO)
+11,Constrained Motion Spaces of Robotic Arms,Jackson Pierce,02,Algebraic Topology (math.AT),empty
+12,Exponential Ordering for Nonautonomous Neutral Functional Differential Equations,"Sylvia Novo, Rafael Obaya, Víctor M. Villarragut",02,Dynamical Systems (math.DS),empty
+13,General uncrossing covering paths inside the axis-aligned bounding box,Marco Ripà,02,Combinatorics (math.CO),empty
+14,Exploring Felix Klein&#39;s contested modernism,"Peter Heinig, Mikhail G. Katz, Karl Kuhlemann, Jan Peter Schaefermeyer, David Sherry",02,History and Overview (math.HO),Mathematical Physics (math-ph)
+15,$G$-Connections on principal bundles over complete $G$-varieties,"Bivas Khan, Mainak Poddar",02,Algebraic Geometry (math.AG),empty
+16,Soft-linkedness,Miguel A. Cardona,02,Logic (math.LO),Combinatorics (math.CO)
+17,Structure-preserving approximation for the non-isothermal Cahn-Hilliard-Navier-Stokes system,"Aaron Brunk, Dennis Schumann",02,Numerical Analysis (math.NA),Analysis of PDEs (math.AP)
+18,Zero fibers of quaternionic quotient singularities,"Lien Cartaya, Stephen Griffeth",02,Representation Theory (math.RT),Combinatorics (math.CO)
+19,The equidistribution of Elliptic Dedekind sums and generalized Selberg-Kloosterman sums,"Kim Klinger-Logan, Tian An Wong",02,Number Theory (math.NT),empty
+20,Network Design for the Traffic Assignment Problem with Mixed-Integer Frank-Wolfe,"Kartikey Sharma, Deborah Hendrych, Mathieu Besançon, Sebastian Pokutta",02,Optimization and Control (math.OC),empty
+21,Algorithms for $p$-adic Heights on Hyperelliptic Curves of Arbitrary Reduction,"Francesca Bianchi, Enis Kaya, J. Steffen Müller",02,Number Theory (math.NT),Algebraic Geometry (math.AG)
+22,Isolated Diophantine numbers,"Fernando Argentieri, Luigi Chierchia",02,Dynamical Systems (math.DS),Number Theory (math.NT)
+23,Interpretations of ZF,"Santiago Jockwich, Sourav Tarafder, Giorgio Venturi",02,Logic (math.LO),empty
+24,Nineteen Fifty-four: Kolmogorov&#39;s new &#34;metrical approach&#34; to Hamiltonian Dynamics,"Luigi Chierchia, Isabella Fascitiello",02,Dynamical Systems (math.DS),empty
+25,Geometric Langlands duality for periods,"Tony Feng, Jonathan Wang",02,Number Theory (math.NT),"Algebraic Geometry (math.AG), Representation Theory (math.RT)"
+26,The clique number of the exact distance $t$-power graph: complexity and eigenvalue bounds,"Aida Abiad, Afrouz Jabal Ameli, Luuk Reijnders",02,Combinatorics (math.CO),empty
+27,Computational orders of convergence of iterative methods for Richards&#39; equation,"Nicolae Suciu, Florin A. Radu, Jakob S. Stokke, Emil Cătinaş, Andra Malina",02,Numerical Analysis (math.NA),empty
+28,Badly approximable grids and k-divergent lattices,"Nikolay Moshchevitin, Anurag Rao, Uri Shapira",02,Number Theory (math.NT),Dynamical Systems (math.DS)
+29,Towards a Unified Theory of Time-Varying Data,"Benjamin Merlin Bumpus, James Fairbanks, Martti Karvonen, Wilmer Leal, Frédéric Simard",02,Category Theory (math.CT),Data Structures and Algorithms (cs.DS)
+30,Modeling and numerical simulation of fully Eulerian fluid-structure interaction using cut finite elements,"Stefan Frei, Tobias Knoke, Marc C. Steinbach, Anne-Kathrin Wenske, Thomas Wick",02,Numerical Analysis (math.NA),empty
+31,Schr\&#34;odinger Operators with Potentials Generated by Hyperbolic Transformations: II. Large Deviations and Anderson Localization,Artur Avila,02,Spectral Theory (math.SP),"Mathematical Physics (math-ph), Dynamical Systems (math.DS)"
+32,Exact and Heuristic Approaches for the Stochastic N-k Interdiction in Power Grids,"Kaarthik Sundar, Andrew Mastin, Manuel Garcia, Russell Bent, Jean-Paul Watson",02,Optimization and Control (math.OC),empty
+33,Learning Based Dynamic Cluster Reconfiguration for UAV Mobility Management with 3D Beamforming,"Irshad A. Meer, Karl-Ludwig Besser, Mustafa Ozger, Dominic Schupke, H. Vincent Poor, Cicek Cavdar",02,Information Theory (cs.IT),Signal Processing (eess.SP)
+34,Forcing Over a Free Suslin Tree,"John Krueger, Sarka Stejskalova",02,Logic (math.LO),empty
+35,Examples of Anosov flows with genus one Birkhoff sections,Chi Cheuk Tsang,02,Dynamical Systems (math.DS),Geometric Topology (math.GT)
+36,Geodesic flow and decay of traces on hyperbolic surfaces,"Antoine Gansemer, Andrew Hassell",02,Spectral Theory (math.SP),Dynamical Systems (math.DS)
+37,Uniformly polynomial-time classification of surface homeomorphisms,Filippo Baroni,02,Geometric Topology (math.GT),Computational Geometry (cs.CG)
+38,Graph Iterated Function Systems and Fractal Tops,"Grover Lancaster-Cole, Georgiana Lyall, Thomas Malcolm, Qiyu Zhou",02,Dynamical Systems (math.DS),empty
+39,WDVV solutions associated with the genus one holomorphic differential,Chaabane Rejeb,02,Mathematical Physics (math-ph),empty
+40,Limits of Random Motzkin paths with KPZ related asymptotics,"Wlodzimierz Bryc, Alexey Kuznetsov, Jacek Wesolowski",02,Probability (math.PR),empty
+41,Valuative invariants for linearized line bundles on a spherical variety,Chenxi Yin,02,Algebraic Geometry (math.AG),Differential Geometry (math.DG)
+42,Dirac series of $E_{8(-24)}$,"Yi-Hao Ding, Chao-Ping Dong, Chengyu Du, Yong-Zhi Luan, Liang Yang",02,Representation Theory (math.RT),empty
+43,Subgradient evolution of value functions in discrete-time optimal control,"Julio Deride, Cristopher Hermosilla, Mattia Solla",02,Optimization and Control (math.OC),empty
+44,Explicit arithmetic Eisenstein cocycles: the toric case,Peter Xu,02,Number Theory (math.NT),Algebraic Geometry (math.AG)
+45,Constructive Projective Geometry,Mark Mandelkern,02,Metric Geometry (math.MG),empty
+46,Information-Theoretic Thresholds for Planted Dense Cycles,"Cheng Mao, Alexander S. Wein, Shenduo Zhang",02,Statistics Theory (math.ST),"Information Theory (cs.IT), Social and Information Networks (cs.SI), Machine Learning (stat.ML)"
+47,A Tuning-Free Primal-Dual Splitting Algorithm for Large-Scale Semidefinite Programming,"Yinjun Wang, Haixiang Lan, Yinyu Ye",02,Optimization and Control (math.OC),empty
+48,Littlewood-type theorems for random Dirichlet series,"Jiale Chen, Xin Guo, Maofa Wang",02,Functional Analysis (math.FA),empty
+49,Steady gradient Ricci solitons with nonnegative curvature operator away from a compact set,"Ziyi Zhao, Xiaohua Zhu",02,Differential Geometry (math.DG),empty
+50,Region crossing change on origami and link,"Tokio Oshikiri, Ayaka Shimizu, Junya Tamura",02,Geometric Topology (math.GT),empty
