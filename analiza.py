@@ -16,7 +16,7 @@ with open("zbrani_podatki.csv", "w", newline='', encoding="utf-8") as izhod:
 
     for skip in {"0", "2000", "4000"}:
         for a in ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"]:
-            r = requests.get(f"https://arxiv.org/list/math/2024-" + a + "?skip=" + skip + "&show=2000")
+            r = requests.get(f"https://arxiv.org/list/math/2023-" + a + "?skip=" + skip + "&show=2000")
             besedilo = r.text[r.text.index("articles"):]
             mesec = a
             sekcije = besedilo.split('</dd>')
